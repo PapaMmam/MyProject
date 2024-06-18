@@ -1,0 +1,443 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+.container{
+    width: 1400px;
+    margin: 0 auto;
+    border: 3px solid black;
+}
+ul{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    gap: 30px;
+    list-style: none;
+    margin-top: -40px;
+    cursor: pointer;
+}
+.bnt{
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    height: 34px;
+    width: 143px;
+    background: black;
+    color:white;
+    border-radius: 1px;
+
+}
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    margin-top: 50px;
+}
+h2{
+    font-weight: 400;
+    line-height: 64px;
+    text-align: center;
+    font-size: 48px;
+    margin-top: 10rem;
+}
+.bnt-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+.demo{
+    width: Hug (166px)px;
+    padding: 13px 25px 13px 25px;
+    gap: 10px;
+    border-radius: 4px 0px 0px 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    height: Hug (50px)px;
+    background: black;
+    color: white;
+    margin-left:    16px;
+}
+.info{
+    width: Hug (166px)px;
+    padding: 13px 25px 13px 25px;
+    gap: 10px;
+    border-radius: 4px 0px 0px 0px;
+    border: 1px ;
+    opacity: 0px;
+    height: Hug (50px)px;
+
+}
+.img-1{
+    text-align: center;
+    margin-top: 88px;
+}
+.pro{
+    margin-top: 50px;
+}
+.sig{
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 24px;
+    font-size: 18px;
+}
+.sig-2{
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 24px;
+    font-size: 18px;
+}
+.sig-3{
+    display: flex;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: start;
+    font-size: 18px;
+
+}
+.boxes{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 148px;
+}
+.xyi{
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: center;
+    font-size: 20px;
+
+}
+.skot{
+    margin-left: 9.3rem;
+    margin-top: 40px;
+}
+.stroy{
+    font-family: Inter;
+    line-height: 48px;
+    text-align: center;
+    font-weight: 400;
+    font-size: 32px;
+    margin-top: 143px;
+}
+h3{
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 48px;
+    text-align: center;
+    font-size: 32px;
+    margin-top: 144px;
+}
+.lol{
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 32px;
+    text-align: left;
+    line-height: 48px;
+    margin-top: 168px;
+}
+.gitler{
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: left;
+    font-size: 20px;
+}
+.section-wrapper-5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.ksa{
+    margin-top: 71px;
+    margin-left: 176px;
+}
+.stalin{
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 48px;
+    text-align: center;
+    font-size: 32px;
+}
+.stalin-2{
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.box-4{ 
+    display: flex;
+    justify-content: center;
+    gap: 91px;
+}
+.sigma-4 img{
+    display: flex;
+    justify-content: center;
+}
+.img-six{
+    display: flex;
+}
+.box-5{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   gap: 101px;
+}
+.box-6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 101px;
+}
+.phto054{
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    font-size: 18px;
+}
+.ron{
+    margin-top: 143px;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 48px;
+    text-align: center;
+    font-size: 32px;
+}
+.rin-2{
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: center;
+    font-size: 20px;
+}
+.boxes-4{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 70px;
+    margin-top: 43px;
+}
+.box-7{
+    display: flex;
+    gap: 16px;
+}
+.box-8{
+    display: flex;
+    gap: 16px;
+}
+.box-9{
+    display: flex;
+    gap: 16px;
+}
+.boxes-5{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 70px;
+    margin-top: 43px;
+}
+.box-10{
+    display: flex;
+    gap: 16px;
+}
+.box-11{
+    display: flex;
+    gap: 16px;
+}
+.box-12{
+    display: flex;
+    gap: 16px;
+}
+.boxes-6{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 70px;
+    margin-top: 43px;
+}
+.box-13{
+    display: flex;
+    gap: 16px;
+}
+.box-14{
+    display: flex;
+    gap: 16px;
+}
+.box-15{
+    display: flex;
+    gap: 16px;
+}
+.sigma-99{
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: left;
+    font-size: 20px;
+    background: orange;
+    height: 20px;
+}
+.sigma-100{
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: left;
+    font-size: 20px;
+
+}
+.sigma-101{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.надежность{
+    margin-top: 124px;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 48px;
+    text-align: center;
+    font-size: 32px;
+
+}
+.sigma-102{
+    position: relative;
+    left: 49rem;
+    top: -100px;
+}
+.pro-xyi{
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: center;
+    font-size: 20px;
+    margin-top: -57px;
+
+}
+.boxes-7{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 60px;
+}
+.box-16{
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 24px;
+    font-size: 18px;
+    text-align: center;
+}
+.box-17{
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    font-size: 18px;
+}
+.box-18{
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    font-size: 18px;
+}
+.ruki{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+    margin-top: 62px;
+}
+.ruki button{
+    width: Hug (149px)px;
+    top: 5802px;
+    left: 1059px;
+    padding: 13px 25px 13px 25px;
+    gap: 10px;
+    border-radius: 4px ;
+    border: 1px ;
+    opacity: 0px;
+    height: Hug (50px)px;
+    cursor: pointer;
+    margin-left: 66px;
+}
+.section-wrapper-10{
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+    margin-top: 144px;
+    background-color : black;
+    background-size: cover;
+    height: 100VH;
+}
+.section-wrapper-10 img{
+    width: 618px;
+    top: 6180px;
+    left: 834px;
+    gap: 0px;
+    opacity: 0px;
+    height: 493px;
+    margin-top: 143px;
+
+}
+.lishka{
+    display: flex;
+    justify-content: start;
+    color: white;
+}
+.ulan{
+    font-weight: 400;
+    line-height: 48px;
+    text-align: left;
+    font-size: 32px;
+    color: white;
+    margin-top: 143px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.box img{
+   margin-left: 80px;
+}
+.box-1 img{
+    margin-left: 80px;
+}
+.box-2 img{
+    margin-left: 80px;
+}
